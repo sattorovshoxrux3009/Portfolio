@@ -29,7 +29,7 @@ const images=[
         src: bootstrap,
     },
     {
-        text:"Tailwand",
+        text:"Tailwind",
         src: tailwand,
     },
     {
