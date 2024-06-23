@@ -5,6 +5,7 @@ import { motion,easeOut } from "framer-motion"
 import dorixonalar from '../img/Dorixonalar.png'
 import construction from '../img/construction.png'
 import dezinfeksiya from '../img/dezinfeksiya.png'
+import furniture from '../img/Furniture.png'
 
 function Works() {
   const { t } = useTranslation();  
@@ -36,6 +37,15 @@ function Works() {
             link: 'https://dezinfeksiya-tashkent.netlify.app/',
             githubLink:'https://github.com/sattorovshoxrux3009/Dezinfeksiya_Tashkent',
             img: dezinfeksiya,
+        },
+        {
+            title: t("furniture"),
+            date: t("furnitureDate"),
+            text: t("furnitureText"),
+            stacks:'React, Vite, SCSS, JSON',
+            link: 'https://furnitures-app.netlify.app/',
+            githubLink:'https://github.com/sattorovshoxrux3009/Furnitures',
+            img: furniture,
         }
   ]
 
