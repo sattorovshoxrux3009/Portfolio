@@ -37,6 +37,15 @@ function Works() {
             link: 'https://furnitures-app.netlify.app/',
             githubLink:'https://github.com/sattorovshoxrux3009/Furnitures',
             img: furniture,
+        },
+        {
+            title: t("avion"),
+            date: t("avionDate"),
+            text: t("avionText"),
+            stacks:'React, Vite, SCSS, JSON',
+            link: 'https://avion-product.netlify.app/',
+            githubLink:'https://github.com/sattorovshoxrux3009/Avion',
+            img: furniture,
         }
   ]
 
