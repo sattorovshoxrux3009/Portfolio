@@ -21,15 +21,6 @@ function Works() {
             img: dorixonalar,
         },
         {
-            title: t("construction"),
-            date: t("constructionDate"),
-            text: t("constructionText"),
-            stacks:'Html, Css, Javascript, Git',
-            link: 'https://landingru.netlify.app/',
-            githubLink:'https://github.com/sattorovshoxrux3009/landingru',
-            img: construction,
-        },
-        {
             title: t("disinfection"),
             date: t("disinfectionDate"),
             text: t("disinfectionText"),
