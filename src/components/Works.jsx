@@ -6,6 +6,7 @@ import dorixonalar from '../img/Dorixonalar.png'
 import construction from '../img/construction.png'
 import dezinfeksiya from '../img/dezinfeksiya.png'
 import furniture from '../img/Furniture.png'
+import avion from '../img/Avion.png'
 
 function Works() {
   const { t } = useTranslation();  
@@ -45,7 +46,7 @@ function Works() {
             stacks:'React, Vite, SCSS, JSON',
             link: 'https://avion-product.netlify.app/',
             githubLink:'https://github.com/sattorovshoxrux3009/Avion',
-            img: furniture,
+            img: avion,
         }
   ]
 
