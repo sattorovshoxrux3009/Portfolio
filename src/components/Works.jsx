@@ -7,6 +7,7 @@ import construction from '../img/construction.png'
 import dezinfeksiya from '../img/dezinfeksiya.png'
 import furniture from '../img/Furniture.png'
 import savdopal from '../img/SavdoPal.png'
+import senKuchlisan from '../img/SenKuchlisan.png'
 
 function Works() {
   const { t } = useTranslation();  
@@ -47,6 +48,15 @@ function Works() {
             link: 'https://savdopal.netlify.app/',
             githubLink:'https://github.com/sattorovshoxrux3009/SavdoPal',
             img: savdopal,
+        },
+        {
+            title: t("savdoPal"),
+            date: t("savdoPalDate"),
+            text: t("savdoPalText"),
+            stacks:'React, i18next, Sass',
+            link: 'https://senkuchlisan.netlify.app/',
+            githubLink:'https://github.com/sattorovshoxrux3009/Sen_Kuchlisan',
+            img: senKuchlisan,
         }
   ]
 
