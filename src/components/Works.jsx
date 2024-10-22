@@ -50,9 +50,9 @@ function Works() {
             img: savdopal,
         },
         {
-            title: t("savdoPal"),
-            date: t("savdoPalDate"),
-            text: t("savdoPalText"),
+            title: t("senKuchlisan"),
+            date: t("senKuchlisanDate"),
+            text: t("senKuchlisanText"),
             stacks:'React, i18next, Sass',
             link: 'https://senkuchlisan.netlify.app/',
             githubLink:'https://github.com/sattorovshoxrux3009/Sen_Kuchlisan',
