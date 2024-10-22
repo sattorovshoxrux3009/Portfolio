@@ -8,6 +8,9 @@ import javascript from "../img/JS.png"
 import react from "../img/Reactt.png"
 import vite from "../img/vite.png"
 import git from "../img/git.png"
+import nodejs from "../img/nodeJs.png"
+import electron from "../img/Electron.svg"
+import typescript from "../img/Typescript.png"
 import { easeOut, motion } from 'framer-motion';
 import { useTranslation } from "react-i18next"
 
@@ -47,6 +50,18 @@ const images=[
     {
         text:"Git",
         src: git,
+    },
+    {
+        text:"Electron",
+        src: electron,
+    },
+    {
+        text:"TypeScript",
+        src: typescript,
+    },
+    {
+        text:"Node.js",
+        src: nodejs,
     }
 ];
 
